@@ -1,14 +1,12 @@
-# Project Name
-  **Description**: A brief explanation of the project's objective.
+# Fullstack Bootcamp - Prueba de Nivel (sprint 2) 
+  **Description**: Repository to share the examen scripts
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
+  - Frontend: HTML, CSS (examen oral)
+  - Backend: PHP (examen oral and hands-on script), SQL & MongoDb (examen oral)
 
-  ## 🚀 Installation
-  1. Clone the repository: `git clone ...`
-  2. Install dependencies: `npm install`
-  3. Environment Variables: Create `.env` with...
+  ## 🚀 Exemen Topics
+  1. Real State (Trial 1)
+  2. TBD (Trial 2)
 
-  ## 📸 Demo
-  [Link to Vercel/Netlify] or screenshots.
+  ## 📸
